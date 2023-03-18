@@ -21,7 +21,7 @@ form.addEventListener('submit', e =>{
         }
         else{
             message.innerHTML = `Nothing wrong`;
-            message.style.color = "#e0e0e0";
+            message.style.color = "#666";
         }
     }
 })

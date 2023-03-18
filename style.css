@@ -115,7 +115,7 @@ section .forma-form form button:focus{
 section .forma-form #mensagem{ 
     text-align: center;
     padding: 30px 0;
-    width: 220px;
+    width: 340px;
     margin: auto;
     font-size: 19px;
 }
