@@ -6,9 +6,10 @@
 
 input::-webkit-inner-spin-button,
 input::-webkit-outer-spin-button{
-    -webkit-appearence: none;
-    margin: 0;
+    display: none;
 }
+
+
 
 body{
     background-color: #e7e7e7;
